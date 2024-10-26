@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! Sou o Leonardo 😉
  - Graduado em ADS 🎓
- - 25 Anos
+ - 26 Anos
  - Hobbies: Cultura geek, jogos eletrônicos e violão
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-sobrinho&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-sobrinho&layout=compact&theme=transparent&card_width=417px)](https://github.com/anuraghazra/github-readme-stats)
